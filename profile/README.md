@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/TPE-eagle/.github/main/profile/fleet-banner.png" alt="TPE-eagle — a fleet of agents" width="100%"/>
+<img src="https://raw.githubusercontent.com/TPE-eagle/.github/main/profile/fleet-banner.jpg" alt="TPE-eagle — the agent fleet" width="100%"/>
 
 # TPE-eagle
 
