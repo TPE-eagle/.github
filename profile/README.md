@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=140&section=header&text=TPE-eagle&fontSize=52&fontColor=ffffff&fontAlignY=52" width="100%"/>
+<img src="https://raw.githubusercontent.com/TPE-eagle/.github/main/profile/fleet-banner.png" alt="TPE-eagle — a fleet of agents" width="100%"/>
+
+# TPE-eagle
 
 **Agent-driven development.**
 
