@@ -33,5 +33,7 @@ _A human sets the heading — a fleet of agents does the flying._
 
 Personal work → [github.com/jonatw](https://github.com/jonatw)
 
-- [`pdf-processor`](https://github.com/jonatw/pdf-processor) — client-side PDF toolkit, runs in the browser
+- [`1min-cloudflare-gateway`](https://github.com/jonatw/1min-cloudflare-gateway) — high-performance Cloudflare Workers gateway with full OpenAI API compatibility
+- [`pdf-processor`](https://github.com/jonatw/pdf-processor) — client-side PDF toolkit, runs entirely in the browser
+- [`apple-store-scrape`](https://github.com/jonatw/apple-store-scrape) — cross-region Apple price comparison (US vs Taiwan)
 - [`pdf-watermark-remove`](https://github.com/jonatw/pdf-watermark-remove) — strip watermarks from PDFs
